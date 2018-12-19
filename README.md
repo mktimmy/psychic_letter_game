@@ -1,2 +1,3 @@
 # psychic_letter_game
 
+One day I'll be able to make this all by myself. Until then, I'll just keep practicing... 
