@@ -1,2 +1,2 @@
-# word_guess_game
-Word guess game
+# psychic_letter_game
+
